@@ -1,3 +1,1 @@
-- Hi there 👋.
-- I am Radmir. 
-- I hope I am gonna write something about myself soon..
+Hi there 👋. I am Radmir. I am currently working on my PhD in applied mathematics at the University of Houston. I have the privilege of collaborating with Robert Azencott and Andreas Mang on the automatic classification of 3D images. I have a strong passion for exploring AI and ML algorithms. Come and visit my [website](https://radmir.website/).
